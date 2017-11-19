@@ -14,6 +14,7 @@ public class Calculations {
         return result;
     }
 
+
     public int subtraction(int first, int second){
 
         int result = first - second;
